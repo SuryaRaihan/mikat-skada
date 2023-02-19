@@ -1,0 +1,4 @@
+CRITICAL - 2023-02-15 17:56:19 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\mikaskada\vendor\codeigniter4\framework\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\mikaskada\spark(45): require('C:\\xampp\\htdocs...')
+#2 {main}
